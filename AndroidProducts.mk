@@ -17,4 +17,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_kenzo.mk \
-    $(LOCAL_DIR)/lineage_kenzo.mk
+    $(LOCAL_DIR)/candy_kenzo.mk
